@@ -23,6 +23,8 @@ p {
   text-align: justify;
   line-height: 28px;
   margin-bottom: 25px;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
   color: white;
   font-size: 25px;
 }
@@ -103,12 +105,5 @@ hr {
   font-family: 'EB Garamond', serif;
   font-style: oblique;
 }
-
-#headerwrap .logo {
-  text-align: left;
-  margin-left: 20px;
-  margin-top: 15px;
-}
-
 
 
